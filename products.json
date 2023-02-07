@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Iphone",
+        "price":200,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "Mphone",
+        "price":2000,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "Kphone",
+        "price":4200,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "klphone",
+        "price":2020,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "Inphone",
+        "price":2040,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "Isphone",
+        "price":20220,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "Iwphone",
+        "price":2100,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name": "Galaxy-2",
+        "price":2100,
+        "company":"samsung"
+    },
+    {
+        "name": "Galaxy-3",
+        "price":2100,
+        "company":"samsung"
+    },
+    {
+        "name": "Galaxy-4",
+        "price":2100,
+        "company":"samsung"
+    },
+    {
+        "name": "Galaxy-5",
+        "price":2100,
+        "company":"samsung"
+    },
+    {
+        "name": "Galaxy-6",
+        "price":2100,
+        "company":"samsung"
+    }
+]
